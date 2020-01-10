@@ -1,0 +1,8 @@
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Model\bin\Debug\netcoreapp2.2\DesafioDito.Model.deps.json
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Model\bin\Debug\netcoreapp2.2\DesafioDito.Model.dll
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Model\bin\Debug\netcoreapp2.2\DesafioDito.Model.pdb
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Model\obj\Debug\netcoreapp2.2\DesafioDito.Model.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Model\obj\Debug\netcoreapp2.2\DesafioDito.Model.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Model\obj\Debug\netcoreapp2.2\DesafioDito.Model.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Model\obj\Debug\netcoreapp2.2\DesafioDito.Model.dll
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Model\obj\Debug\netcoreapp2.2\DesafioDito.Model.pdb

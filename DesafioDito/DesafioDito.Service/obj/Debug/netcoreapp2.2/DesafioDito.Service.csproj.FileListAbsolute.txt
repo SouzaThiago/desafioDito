@@ -1,0 +1,16 @@
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\bin\Debug\netcoreapp2.2\DesafioDito.Service.deps.json
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\bin\Debug\netcoreapp2.2\DesafioDito.Service.dll
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\bin\Debug\netcoreapp2.2\DesafioDito.Service.pdb
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\bin\Debug\netcoreapp2.2\DesafioDito.Adapter.dll
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\bin\Debug\netcoreapp2.2\DesafioDito.Data.dll
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\bin\Debug\netcoreapp2.2\DesafioDito.Model.dll
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\bin\Debug\netcoreapp2.2\DesafioDito.Adapter.pdb
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\bin\Debug\netcoreapp2.2\DesafioDito.Data.pdb
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\bin\Debug\netcoreapp2.2\DesafioDito.Model.pdb
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\obj\Debug\netcoreapp2.2\DesafioDito.Service.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\obj\Debug\netcoreapp2.2\RefitStubs.g.cs
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\obj\Debug\netcoreapp2.2\DesafioDito.Service.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\obj\Debug\netcoreapp2.2\DesafioDito.Service.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\obj\Debug\netcoreapp2.2\DesafioDito.Service.csproj.CopyComplete
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\obj\Debug\netcoreapp2.2\DesafioDito.Service.dll
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Service\obj\Debug\netcoreapp2.2\DesafioDito.Service.pdb

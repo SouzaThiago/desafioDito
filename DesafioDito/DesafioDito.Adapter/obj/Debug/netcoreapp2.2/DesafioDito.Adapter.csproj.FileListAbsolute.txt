@@ -1,0 +1,8 @@
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Adapter\bin\Debug\netcoreapp2.2\DesafioDito.Adapter.deps.json
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Adapter\bin\Debug\netcoreapp2.2\DesafioDito.Adapter.dll
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Adapter\bin\Debug\netcoreapp2.2\DesafioDito.Adapter.pdb
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Adapter\obj\Debug\netcoreapp2.2\RefitStubs.g.cs
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Adapter\obj\Debug\netcoreapp2.2\DesafioDito.Adapter.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Adapter\obj\Debug\netcoreapp2.2\DesafioDito.Adapter.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Adapter\obj\Debug\netcoreapp2.2\DesafioDito.Adapter.dll
+C:\Users\Thiago\source\repos\DesafioDito\DesafioDito.Adapter\obj\Debug\netcoreapp2.2\DesafioDito.Adapter.pdb

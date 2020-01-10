@@ -1,0 +1,41 @@
+﻿@model DesafioDito.WebApi.Model.EventoViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.3.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#nomeEvento').autocomplete({
+                minLength: 2,
+                source: '/AutoComplete/Buscar'
+            });
+        });
+    </script>
+</head>
+<body>
+    <h3>Inserir evento </h3>
+    @using (Html.BeginForm("SalvarEvento", "AutoComplete", FormMethod.Get))
+    {
+        <input id="nome" type="text" name="nome" value="" class="Data" />
+        <input type="submit" name="btnOK" value="Salvar" />
+    }
+
+    <h3>Autocomplete </h3>
+
+    @using (Html.BeginForm("MostrarEvento", "AutoComplete", FormMethod.Get))
+    {
+        <label>Digite o nome do evento a ser buscado: </label>
+        <input type="text" id="nomeEvento" name="nome" placeholder="Digite..." />
+        <input type="submit" name="btnOK"  value="Buscar"/>
+     
+    }
+
+    </body>
+</html>
